@@ -6,6 +6,5 @@
 
 ***
 
-# [deployed link](https://saurabh-street-style-landing-page.netlify.app/)
-
+# [Deployed Link](https://saurabh-street-style-landing-page.netlify.app/)
 ## Time Taken to Complete Project: **1 hour**
